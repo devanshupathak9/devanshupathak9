@@ -75,8 +75,24 @@ Building scalable backend systems and AI-powered applications while exploring ho
 </p>
 
 ---
+## 👨‍💻 **About Me**
 
-## 👨‍💻 About Me
+- 🎓 Dual Degree (B.Tech + M.Tech) from **IIT Kharagpur**
+- 💼 Software Engineer with **3+ years of experience**
+- 🚀 Building scalable backend systems and AI-powered applications
+- 🏗️ Passionate about distributed systems, software architecture, and designing reliable, production-grade software
+- ⚙️ Exploring low-level systems including operating systems, computer architecture, networking, embedded systems, and understanding how software works under the hood
+- 📚 Learning by building real-world projects and documenting the journey
+
+### 🛠️ **Tech Stack
+**
+- **Backend:** Django, FastAPI, Flask, Node.js (Express)
+- **AI:** LLMs, AI Agents, LangGraph, RAG
+- **Cloud & DevOps:** AWS, Docker, Linux
+- **Databases:** PostgreSQL, Redis
+- **Languages:** Python, JavaScript, C/C++
+
+<!-- ## 👨‍💻 **About Me**
 
 - 🎓 Dual Degree (B.Tech + M.Tech) from **IIT Kharagpur**
 - 💼 Software Engineer with **3+ years of experience**
@@ -86,9 +102,9 @@ Building scalable backend systems and AI-powered applications while exploring ho
 - 🔬 Currently exploring operating systems, networking, embedded systems, computer architecture, and how software interacts with hardware
 - 📚 Learning by building real-world projects and documenting the journey
 
----
+--- -->
 
-## 📈 GitHub Activity
+## 📈 **GitHub Activity**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devanshupathak9&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
@@ -101,7 +117,7 @@ Building scalable backend systems and AI-powered applications while exploring ho
 
 ---
 
-## 🌐 Connect
+## 🌐 **Connect**
 
 <p align="center">
   <a href="https://devpathak.tech" target="_blank">
@@ -119,10 +135,6 @@ Building scalable backend systems and AI-powered applications while exploring ho
   <a href="https://github.com/devanshu9267" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="42"/>
   </a>
-</p>
-
-<p align="center">
-<i>Building scalable software, understanding systems, and learning something new every day 🚀</i>
 </p>
 
 <p align="center">
