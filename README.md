@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devanshu Pathak</h1>
+<!-- <h1 align="center">Hi 👋, I'm Devanshu Pathak</h1>
 
 <h3 align="center">
 Backend Engineer • AI Engineer • System Design Enthusiast
@@ -36,7 +36,7 @@ Building scalable backend systems, AI-powered applications, and continuously exp
 
 ---
 
-## 🌐 Connect
+## 🌐 **Connect**
 
 <p align="center">
   <a href="https://devpathak.tech" target="_blank">
@@ -54,12 +54,76 @@ Building scalable backend systems, AI-powered applications, and continuously exp
   <a href="https://github.com/devanshu9267" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
+</p> -->
+
+<h1 align="center">Hi 👋, I'm Devanshu Pathak</h1>
+
+<h3 align="center">
+Software Engineer • Backend • AI • Low-Level Systems
+</h3>
+
+<p align="center">
+Building scalable backend systems and AI-powered applications while exploring how software works beneath the surface—from operating systems and networking to distributed systems, embedded systems, and computer architecture.
 </p>
 
 <p align="center">
-  <i>Always building. Always learning. 🚀</i>
+  <img src="https://komarev.com/ghpvc/?username=devanshupathak9&label=Profile%20Views&color=0e75b6&style=flat" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/devanshupathak9?label=Followers&style=flat&color=0e75b6" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/devanshupathak9?affiliations=OWNER&label=Stars&style=flat&color=0e75b6" />
 </p>
+
 ---
+
+## 👨‍💻 About Me
+
+- 🎓 Dual Degree (B.Tech + M.Tech) from **IIT Kharagpur**
+- 💼 Software Engineer with **3+ years of experience**
+- 🐍 Building scalable backend systems with **Python** and **FastAPI**
+- 🤖 Developing AI applications using **LLMs**, **RAG**, and **AI Agents**
+- ⚙️ Passionate about **System Design**, **Distributed Systems**, and **Low-Level System Design**
+- 🔬 Currently exploring operating systems, networking, embedded systems, computer architecture, and how software interacts with hardware
+- 📚 Learning by building real-world projects and documenting the journey
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devanshupathak9&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=devanshupathak9&theme=github-dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshupathak9&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://devpathak.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-devpathak.tech-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/devanshu-pathak-39623b172/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@pathakdevanshu9" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" height="42"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/devanshu9267" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42"/>
+  </a>
+</p>
+
+<p align="center">
+<i>Building scalable software, understanding systems, and learning something new every day 🚀</i>
+</p>
 
 <p align="center">
 Thanks for visiting! ⭐ If you like my work, feel free to explore my repositories.
