@@ -84,8 +84,7 @@ Building scalable backend systems and AI-powered applications while exploring ho
 - ⚙️ Exploring low-level systems including operating systems, computer architecture, networking, embedded systems, and understanding how software works under the hood
 - 📚 Learning by building real-world projects and documenting the journey
 
-### 🛠️ **Tech Stack
-**
+### 🛠️ **Tech Stack**
 - **Backend:** Django, FastAPI, Flask, Node.js (Express)
 - **AI:** LLMs, AI Agents, LangGraph, RAG
 - **Cloud & DevOps:** AWS, Docker, Linux
