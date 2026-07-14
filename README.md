@@ -134,33 +134,37 @@ Collection of CTF writeups covering
 
 ---
 
-# 📚 Currently Learning
-
-- Low-Level Design
-- High-Level Design
-- Distributed Systems
-- Kubernetes
-- Networking
-- Operating Systems
-- System Design Interview Preparation
-- AI Engineering
-
----
-
-# 📈 GitHub Statistics
+## 📈 GitHub Activity
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devanshupathak9&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshupathak9&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=devanshupathak9&theme=github-dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshupathak9&theme=github-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🌐 Connect
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=devanshupathak9&theme=github-dark&hide_border=true"/>
+  <a href="https://devpathak.tech" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webstorm" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/devanshu-pathak-39623b172/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@pathakdevanshu9" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/devanshu9267" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Always building. Always learning. 🚀</i>
 </p>
 
 ---
@@ -170,49 +174,6 @@ Collection of CTF writeups covering
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshupathak9&theme=github-dark&hide_border=true"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devanshupathak9&theme=algolia&column=4&no-frame=true"/>
-</p>
-
----
-
-# 🌱 2026 Goals
-
-- ✅ Master Low-Level Design
-- ✅ Master High-Level System Design
-- ✅ Build production-ready backend systems
-- ✅ Build AI-first developer tools
-- ✅ Contribute to Open Source
-- ✅ Share knowledge through projects and documentation
-
----
-
-# 📫 Connect With Me
-
-<p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/devanshupathak9">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-</p>
-
----
-
-# 💡 Quote
-
-> *"First make it work. Then make it right. Then make it fast."*
 
 ---
 
