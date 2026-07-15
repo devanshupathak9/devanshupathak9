@@ -47,8 +47,14 @@ Also exploring:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshupathak9&layout=compact&theme=dracula&hide_border=true" height="140" alt="Top languages"/>
 </p>
 
+<!-- === Option 1: 3D isometric calendar === -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devanshupathak9/devanshupathak9/output/github-snake-dracula.svg" alt="Contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/devanshupathak9/devanshupathak9/master/profile-3d-contrib/profile-season-animate.svg" alt="3D isometric contribution calendar"/>
+</p>
+
+<!-- === Option 2: 3D-contrib gitblock tiles === -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devanshupathak9/devanshupathak9/master/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution gitblock"/>
 </p>
 
 ---
