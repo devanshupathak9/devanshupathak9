@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Devanshu Pathak 👋</h1>
 
-**Software Engineer | Backend | AI | Systems Enthusiast**
+<p align="center"><b>Software Engineer | Backend | AI | Systems Enthusiast</b></p>
 
 I'm a software engineer with 3+ years of experience building production backend systems and AI-powered applications. I graduated from **IIT Kharagpur** (B.Tech + M.Tech), and I'm currently focused on scalable backend architecture, AI pipelines and RAG systems. I like exploring the layers beneath modern software — operating systems, networking, and embedded systems.
 
@@ -16,7 +16,7 @@ I'm a software engineer with 3+ years of experience building production backend 
 
 I work with:
 
-[![C, C++, Python, JavaScript, Node.js, Express, FastAPI, Django, PostgreSQL, Redis, Elasticsearch, AWS, Docker, Linux, Git](https://skillicons.dev/icons?i=c,cpp,python,js,nodejs,express,fastapi,django,postgres,redis,elasticsearch,aws,docker,linux,git&perline=8)](https://skillicons.dev)
+[![C, C++, Python, JavaScript, Node.js, Express, FastAPI, Django, PostgreSQL, Redis, Elasticsearch, AWS, Docker, Linux, Git](https://skillicons.dev/icons?i=c,cpp,py,js,nodejs,express,fastapi,django,postgres,redis,elasticsearch,aws,docker,linux,git&perline=8)](https://skillicons.dev)
 
 AI / ML tooling:
 
@@ -39,22 +39,11 @@ Also exploring:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanshupathak9&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" height="165" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com?user=devanshupathak9&theme=dracula&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshupathak9&layout=compact&theme=dracula&hide_border=true" height="140" alt="Top languages"/>
-</p>
-
-<!-- === Option 1: 3D isometric calendar === -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devanshupathak9/devanshupathak9/master/profile-3d-contrib/profile-season-animate.svg" alt="3D isometric contribution calendar"/>
-</p>
-
-<!-- === Option 2: 3D-contrib gitblock tiles === -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devanshupathak9/devanshupathak9/master/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution gitblock"/>
+  <img src="https://raw.githubusercontent.com/devanshupathak9/devanshupathak9/HEAD/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution gitblock" width="70%"/>
 </p>
 
 ---
