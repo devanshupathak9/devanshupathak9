@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I'm Devanshu Pathak 👋</h1>
 
-<p align="center"><b>Software Engineer | Backend | AI | Systems Enthusiast</b></p>
+<p align="center"><b>Software Engineer | Backend • Distributed Systems • AI</b></p>
 
-I'm a Software Engineer with 3+ years of experience building production-grade backend systems and AI-powered applications. A graduate of **IIT Kharagpur** (B.Tech + M.Tech), I'm currently focused on scalable backend architecture, AI pipelines, and building reliable production systems. Beyond application development, I enjoy exploring how software works beneath the surface — from operating systems and networking to embedded systems and computer architecture.
+I'm a graduate of **IIT Kharagpur** (B.Tech + M.Tech) with 3+ years of experience building production-grade software. My work focuses on backend systems and AI-powered applications, and I enjoy designing scalable architectures and reliable production systems. Beyond application development, I'm passionate about understanding how software works beneath the surface—from operating systems and networking to embedded systems and computer architecture.
 
 ## About Me
 
-- 🚀 I build backend systems and AI applications, working across application architecture, data layers, distributed services, and production infrastructure.
-- ⚙️ I'm fascinated by **what happens under the hood** — from operating systems and networking to database internals and computer architecture — and I learn best by implementing systems from the ground up.
-- 🔐 For fun, I solve **CTF** and **Hack The Box** challenges (**[writeups](https://github.com/devanshupathak9/ctf-writeups)**), plus the occasional competitive programming problem.
+- 🚀 I build **backend systems** and **AI-powered applications**, with experience spanning application architecture, data layers, distributed services, and production infrastructure.
+- ❤️ My core interests are **distributed systems, backend engineering, and systems programming** — I learn best by building things from the ground up.
+- 📚 Currently diving deeper into **C** and learning **Rust** through hands-on systems programming and low-level projects.
+- 🔐 For fun, I solve **CTF** and **Hack The Box** challenges ([writeups](https://github.com/devanshupathak9/ctf-writeups)), plus the occasional competitive programming problem.
 - ✍️ I occasionally write about **software engineering and systems** on [Medium](https://medium.com/@pathakdevanshu9).
 
 ## Tech Stack
