@@ -2,13 +2,13 @@
 
 <p align="center"><b>Software Engineer | Backend | AI | Systems Enthusiast</b></p>
 
-I'm a software engineer with 3+ years of experience building production backend systems and AI-powered applications. I graduated from **IIT Kharagpur** (B.Tech + M.Tech), and I'm currently focused on scalable backend architecture, AI pipelines and RAG systems. I like exploring the layers beneath modern software — operating systems, networking, and embedded systems.
+I'm a Software Engineer with 3+ years of experience building production-grade backend systems and AI-powered applications. A graduate of **IIT Kharagpur** (B.Tech + M.Tech), I'm currently focused on scalable backend architecture, AI pipelines, and production RAG systems. Beyond application development, I enjoy exploring how software works beneath the surface — from operating systems and networking to embedded systems and computer architecture.
 
 ## About Me
 
 - 🚀 I build **backend systems and AI applications** — FastAPI services, LangGraph agent pipelines, and production RAG systems with hybrid retrieval and reranking.
-- ⚙️ I'm fascinated by **what's under the hood**: OS internals, sockets and networking, database internals and building things from first principles in C.
-- 🔐 For fun, I solve **CTF / HackTheBox challenges** and competitive programming problems.
+- ⚙️ I'm fascinated by **what happens under the hood** — from operating systems and networking to database internals, computer architecture, and building software from first principles in C.
+- 🔐 I enjoy solving **CTF and Hack The Box challenges**, and occasionally competitive programming problems.
 - ✍️ I write technical articles on [Medium](https://medium.com/@pathakdevanshu9).
 - 🌍 Based in India.
 
@@ -25,9 +25,11 @@ AI / ML tooling:
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-7B2CBF?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG%20Systems-FF6B35?style=for-the-badge)
 
-Also exploring:
+#### 🧠 Also Exploring
 
-[![Rust, Arduino, Raspberry Pi](https://skillicons.dev/icons?i=rust,arduino,raspberrypi&perline=9)](https://skillicons.dev)
+[![Systems](https://skillicons.dev/icons?i=c,rust,linux,bash)](https://skillicons.dev)
+
+**Operating Systems • Networking • Systems Programming • Embedded Systems**
 
 ## Connect with me!!
 
