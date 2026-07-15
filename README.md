@@ -2,36 +2,33 @@
 
 <p align="center"><b>Software Engineer | Backend | AI | Systems Enthusiast</b></p>
 
-I'm a Software Engineer with 3+ years of experience building production-grade backend systems and AI-powered applications. A graduate of **IIT Kharagpur** (B.Tech + M.Tech), I'm currently focused on scalable backend architecture, AI pipelines, and production RAG systems. Beyond application development, I enjoy exploring how software works beneath the surface — from operating systems and networking to embedded systems and computer architecture.
+I'm a Software Engineer with 3+ years of experience building production-grade backend systems and AI-powered applications. A graduate of **IIT Kharagpur** (B.Tech + M.Tech), I'm currently focused on scalable backend architecture, AI pipelines, and building reliable production systems. Beyond application development, I enjoy exploring how software works beneath the surface — from operating systems and networking to embedded systems and computer architecture.
 
 ## About Me
 
-- 🚀 I build **backend systems and AI applications** — FastAPI services, LangGraph agent pipelines, and production RAG systems with hybrid retrieval and reranking.
-- ⚙️ I'm fascinated by **what happens under the hood** — from operating systems and networking to database internals, computer architecture, and building software from first principles in C.
-- 🔐 I enjoy solving **CTF and Hack The Box challenges**, and occasionally competitive programming problems.
-- ✍️ I write technical articles on [Medium](https://medium.com/@pathakdevanshu9).
-- 🌍 Based in India.
+- 🚀 I build backend systems and AI applications, working across application architecture, data layers, distributed services, and production infrastructure.
+- ⚙️ I'm fascinated by **what happens under the hood** — from operating systems and networking to database internals and computer architecture — and I learn best by implementing systems from the ground up.
+- 🔐 For fun, I solve **CTF** and **Hack The Box** challenges (**[writeups](https://github.com/devanshupathak9/ctf-writeups)**), plus the occasional competitive programming problem.
+- ✍️ I occasionally write about **software engineering and systems** on [Medium](https://medium.com/@pathakdevanshu9).
 
 ## Tech Stack
 
-I work with:
-
 [![C, C++, Python, JavaScript, Node.js, Express, FastAPI, Django, PostgreSQL, Redis, Elasticsearch, AWS, Docker, Linux, Git](https://skillicons.dev/icons?i=c,cpp,py,js,nodejs,express,fastapi,django,postgres,redis,elasticsearch,aws,docker,linux,git&perline=8)](https://skillicons.dev)
 
-AI / ML tooling:
+#### AI & LLMs
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-7B2CBF?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG%20Systems-FF6B35?style=for-the-badge)
 
-#### 🧠 Also Exploring
+#### 🧠 Currently Exploring
 
 [![Systems](https://skillicons.dev/icons?i=c,rust,linux,bash)](https://skillicons.dev)
 
 **Operating Systems • Networking • Systems Programming • Embedded Systems**
 
-## Connect with me!!
+## Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakdevanshu9@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devpathak.tech)
