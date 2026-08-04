@@ -30,10 +30,6 @@ For fun, I solve **CTF** and **Hack The Box** challenges ([writeups](https://git
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshu-pathak-39623b172)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pathakdevanshu9)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devanshupathak9/devanshupathak9/HEAD/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution gitblock" width="70%"/>
-</p>
-
 ---
 
 <p align="center">
