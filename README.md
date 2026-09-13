@@ -2,8 +2,7 @@
 
 <p align="center"><b>Software Engineer | Backend • Distributed Systems • AI</b></p>
 
-
-I'm a graduate of IIT Kharagpur (B.Tech + M.Tech) with 3+ years of experience building production-grade software. I work on **backend systems** and **AI-powered applications** - application architecture, data layers, distributed services, and production infrastructure - and I enjoy designing scalable, reliable systems. I'm equally interested in what happens beneath the surface: operating systems, networking, embedded systems, and computer architecture. Right now, I'm going deeper into **C** and learning **Rust** through hands-on low-level projects.
+I'm a graduate of IIT Kharagpur (B.Tech + M.Tech) with 3+ years of experience building production-grade software. I work on **backend systems** and **AI-powered applications**, designing application functionality, APIs, data layers, and distributed services. I enjoy building reliable systems and working across the stack, from application logic to the underlying infrastructure. I'm equally interested in what happens beneath the surface: operating systems, networking, embedded systems, and computer architecture. Right now, I'm going deeper into **C** and learning **Rust** through hands-on low-level projects.
 
 For fun, I solve **CTF** and **Hack The Box** challenges ([writeups](https://github.com/devanshupathak9/ctf-writeups)) and occasionally write about software engineering and systems on [Medium](https://medium.com/@pathakdevanshu9).
 
